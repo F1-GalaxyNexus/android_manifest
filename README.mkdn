@@ -1,0 +1,21 @@
+F1 GalaxyNexus
+=============
+=============
+
+Getting Started
+---------------
+
+Please see the [Android source page](http://source.android.com/source/index.html) for building instructions.
+
+To initialize your local repository using my trees, use the following command:
+
+    repo init -u git://github.com/F1-GalaxyNexus/android_manifest.git -b ics
+
+Then to sync up:
+
+    repo sync -j16
+
+Credits
+-------
+HUGE thanks to Peter Alfonso for this very clean vendor. Without him this vendor would be a mess! Please thank him too :)
+
